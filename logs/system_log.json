@@ -1,0 +1,177 @@
+{"category":"CPU","message":"Total CPU Usage: 2.51256%\nCPU0 Usage: 3%\nCPU1 Usage: 7%\nCPU2 Usage: 1%\nCPU3 Usage: 3.9604%\n","timestamp":"2026-02-05 02:51:53"}
+{"category":"Memory","message":"Memory Usage: 52.3346%\n","timestamp":"2026-02-05 02:51:53"}
+{"category":"Disk","message":"Disk Usage (/): 67.9838%\n","timestamp":"2026-02-05 02:51:53"}
+{"category":"CPU","message":"Total CPU Usage: 2.25564%\nCPU0 Usage: 2%\nCPU1 Usage: 3%\nCPU2 Usage: 3%\nCPU3 Usage: 1.02041%\n","timestamp":"2026-02-05 02:51:56"}
+{"category":"Memory","message":"Memory Usage: 52.3671%\n","timestamp":"2026-02-05 02:51:56"}
+{"category":"Disk","message":"Disk Usage (/): 67.9843%\n","timestamp":"2026-02-05 02:51:56"}
+{"category":"CPU","message":"Total CPU Usage: 13.486%\nCPU0 Usage: 3.0303%\nCPU1 Usage: 26.8041%\nCPU2 Usage: 4.0404%\nCPU3 Usage: 18.5567%\n","timestamp":"2026-02-05 02:51:59"}
+{"category":"Memory","message":"Memory Usage: 44.5178%\n","timestamp":"2026-02-05 02:51:59"}
+{"category":"Disk","message":"Disk Usage (/): 67.984%\n","timestamp":"2026-02-05 02:51:59"}
+{"category":"CPU","message":"Total CPU Usage: 20.0514%\nCPU0 Usage: 17.3469%\nCPU1 Usage: 25.5102%\nCPU2 Usage: 20.8333%\nCPU3 Usage: 16.4948%\n","timestamp":"2026-02-05 02:52:02"}
+{"category":"Memory","message":"Memory Usage: 43.4344%\n","timestamp":"2026-02-05 02:52:02"}
+{"category":"Disk","message":"Disk Usage (/): 67.668%\n","timestamp":"2026-02-05 02:52:02"}
+{"category":"CPU","message":"Total CPU Usage: 25%\nCPU0 Usage: 32.6316%\nCPU1 Usage: 15.3061%\nCPU2 Usage: 33.3333%\nCPU3 Usage: 17.8218%\n","timestamp":"2026-02-05 02:52:05"}
+{"category":"Memory","message":"Memory Usage: 47.2592%\n","timestamp":"2026-02-05 02:52:05"}
+{"category":"Disk","message":"Disk Usage (/): 67.6888%\n","timestamp":"2026-02-05 02:52:05"}
+{"category":"CPU","message":"Total CPU Usage: 16.9192%\nCPU0 Usage: 28.5714%\nCPU1 Usage: 5.94059%\nCPU2 Usage: 30.6122%\nCPU3 Usage: 3%\n","timestamp":"2026-02-05 02:52:08"}
+{"category":"Memory","message":"Memory Usage: 48.7607%\n","timestamp":"2026-02-05 02:52:08"}
+{"category":"Disk","message":"Disk Usage (/): 67.6888%\n","timestamp":"2026-02-05 02:52:08"}
+{"category":"CPU","message":"Total CPU Usage: 1.74564%\nCPU0 Usage: 0%\nCPU1 Usage: 2.0202%\nCPU2 Usage: 1%\nCPU3 Usage: 0%\n","timestamp":"2026-02-05 02:52:11"}
+{"category":"Memory","message":"Memory Usage: 48.797%\n","timestamp":"2026-02-05 02:52:11"}
+{"category":"Disk","message":"Disk Usage (/): 67.6888%\n","timestamp":"2026-02-05 02:52:11"}
+{"category":"CPU","message":"Total CPU Usage: 1.50376%\nCPU0 Usage: 0%\nCPU1 Usage: 1.0101%\nCPU2 Usage: 2.0202%\nCPU3 Usage: 1%\n","timestamp":"2026-02-05 02:52:14"}
+{"category":"Memory","message":"Memory Usage: 48.8062%\n","timestamp":"2026-02-05 02:52:14"}
+{"category":"Disk","message":"Disk Usage (/): 67.6888%\n","timestamp":"2026-02-05 02:52:14"}
+{"category":"CPU","message":"Total CPU Usage: 9.25%\nCPU0 Usage: 5%\nCPU1 Usage: 12.1212%\nCPU2 Usage: 8.91089%\nCPU3 Usage: 11.1111%\n","timestamp":"2026-02-05 02:52:17"}
+{"category":"Memory","message":"Memory Usage: 48.8062%\n","timestamp":"2026-02-05 02:52:17"}
+{"category":"Disk","message":"Disk Usage (/): 67.6888%\n","timestamp":"2026-02-05 02:52:17"}
+{"category":"CPU","message":"Total CPU Usage: 3.25815%\nCPU0 Usage: 5.88235%\nCPU1 Usage: 3%\nCPU2 Usage: 2.0202%\nCPU3 Usage: 3%\n","timestamp":"2026-02-05 02:52:20"}
+{"category":"Memory","message":"Memory Usage: 48.8062%\n","timestamp":"2026-02-05 02:52:20"}
+{"category":"Disk","message":"Disk Usage (/): 67.6888%\n","timestamp":"2026-02-05 02:52:20"}
+{"category":"CPU","message":"Total CPU Usage: 1.50376%\nCPU0 Usage: 2.94118%\nCPU1 Usage: 2%\nCPU2 Usage: 0%\nCPU3 Usage: 2%\n","timestamp":"2026-02-05 02:52:23"}
+{"category":"Memory","message":"Memory Usage: 48.8878%\n","timestamp":"2026-02-05 02:52:23"}
+{"category":"Disk","message":"Disk Usage (/): 67.6888%\n","timestamp":"2026-02-05 02:52:23"}
+{"category":"CPU","message":"Total CPU Usage: 1.74564%\nCPU0 Usage: 1.0101%\nCPU1 Usage: 3%\nCPU2 Usage: 2.9703%\nCPU3 Usage: 1%\n","timestamp":"2026-02-05 02:52:26"}
+{"category":"Memory","message":"Memory Usage: 48.4368%\n","timestamp":"2026-02-05 02:52:26"}
+{"category":"Disk","message":"Disk Usage (/): 67.689%\n","timestamp":"2026-02-05 02:52:26"}
+{"category":"CPU","message":"Total CPU Usage: 1.75439%\nCPU0 Usage: 2.9703%\nCPU1 Usage: 2%\nCPU2 Usage: 1.9802%\nCPU3 Usage: 0%\n","timestamp":"2026-02-05 02:52:29"}
+{"category":"Memory","message":"Memory Usage: 48.4367%\n","timestamp":"2026-02-05 02:52:29"}
+{"category":"Disk","message":"Disk Usage (/): 67.6889%\n","timestamp":"2026-02-05 02:52:29"}
+{"category":"CPU","message":"Total CPU Usage: 2.00501%\nCPU0 Usage: 3.0303%\nCPU1 Usage: 1.0101%\nCPU2 Usage: 0%\nCPU3 Usage: 1.0101%\n","timestamp":"2026-02-05 02:52:32"}
+{"category":"Memory","message":"Memory Usage: 48.4459%\n","timestamp":"2026-02-05 02:52:32"}
+{"category":"Disk","message":"Disk Usage (/): 67.6888%\n","timestamp":"2026-02-05 02:52:32"}
+{"category":"CPU","message":"Total CPU Usage: 1.00503%\nCPU0 Usage: 2.0202%\nCPU1 Usage: 1%\nCPU2 Usage: 1%\nCPU3 Usage: 1.9802%\n","timestamp":"2026-02-05 02:52:35"}
+{"category":"Memory","message":"Memory Usage: 48.4459%\n","timestamp":"2026-02-05 02:52:35"}
+{"category":"Disk","message":"Disk Usage (/): 67.6888%\n","timestamp":"2026-02-05 02:52:35"}
+{"category":"CPU","message":"Total CPU Usage: 1.00503%\nCPU0 Usage: 2.9703%\nCPU1 Usage: 1.9802%\nCPU2 Usage: 1.0101%\nCPU3 Usage: 1%\n","timestamp":"2026-02-05 02:52:38"}
+{"category":"Memory","message":"Memory Usage: 48.4676%\n","timestamp":"2026-02-05 02:52:38"}
+{"category":"Disk","message":"Disk Usage (/): 67.6888%\n","timestamp":"2026-02-05 02:52:38"}
+{"category":"CPU","message":"Total CPU Usage: 5%\nCPU0 Usage: 6.06061%\nCPU1 Usage: 5.94059%\nCPU2 Usage: 1.02041%\nCPU3 Usage: 7%\n","timestamp":"2026-02-05 02:52:41"}
+{"category":"Memory","message":"Memory Usage: 48.4674%\n","timestamp":"2026-02-05 02:52:41"}
+{"category":"Disk","message":"Disk Usage (/): 67.6889%\n","timestamp":"2026-02-05 02:52:41"}
+{"category":"CPU","message":"Total CPU Usage: 5.51378%\nCPU0 Usage: 5.94059%\nCPU1 Usage: 5.05051%\nCPU2 Usage: 6.06061%\nCPU3 Usage: 5%\n","timestamp":"2026-02-05 02:52:44"}
+{"category":"Memory","message":"Memory Usage: 48.4674%\n","timestamp":"2026-02-05 02:52:44"}
+{"category":"Disk","message":"Disk Usage (/): 67.6889%\n","timestamp":"2026-02-05 02:52:44"}
+{"category":"CPU","message":"Total CPU Usage: 2.5%\nCPU0 Usage: 2.9703%\nCPU1 Usage: 2.0202%\nCPU2 Usage: 2.9703%\nCPU3 Usage: 2%\n","timestamp":"2026-02-05 02:52:47"}
+{"category":"Memory","message":"Memory Usage: 48.4674%\n","timestamp":"2026-02-05 02:52:47"}
+{"category":"Disk","message":"Disk Usage (/): 67.6888%\n","timestamp":"2026-02-05 02:52:47"}
+{"category":"CPU","message":"Total CPU Usage: 2.25564%\nCPU0 Usage: 3.0303%\nCPU1 Usage: 1%\nCPU2 Usage: 4%\nCPU3 Usage: 2%\n","timestamp":"2026-02-05 02:52:50"}
+{"category":"Memory","message":"Memory Usage: 48.4726%\n","timestamp":"2026-02-05 02:52:50"}
+{"category":"Disk","message":"Disk Usage (/): 67.6889%\n","timestamp":"2026-02-05 02:52:50"}
+{"category":"CPU","message":"Total CPU Usage: 2.75%\nCPU0 Usage: 1.02041%\nCPU1 Usage: 1%\nCPU2 Usage: 3%\nCPU3 Usage: 4%\n","timestamp":"2026-02-05 02:52:53"}
+{"category":"Memory","message":"Memory Usage: 48.4726%\n","timestamp":"2026-02-05 02:52:53"}
+{"category":"Disk","message":"Disk Usage (/): 67.6888%\n","timestamp":"2026-02-05 02:52:53"}
+{"category":"CPU","message":"Total CPU Usage: 5.73566%\nCPU0 Usage: 2.0202%\nCPU1 Usage: 5.05051%\nCPU2 Usage: 5.05051%\nCPU3 Usage: 8%\n","timestamp":"2026-02-05 02:52:56"}
+{"category":"Memory","message":"Memory Usage: 48.4726%\n","timestamp":"2026-02-05 02:52:56"}
+{"category":"Disk","message":"Disk Usage (/): 67.6888%\n","timestamp":"2026-02-05 02:52:56"}
+{"category":"CPU","message":"Total CPU Usage: 2.01005%\nCPU0 Usage: 0%\nCPU1 Usage: 2%\nCPU2 Usage: 3.0303%\nCPU3 Usage: 2.0202%\n","timestamp":"2026-02-05 02:52:59"}
+{"category":"Memory","message":"Memory Usage: 48.4726%\n","timestamp":"2026-02-05 02:52:59"}
+{"category":"Disk","message":"Disk Usage (/): 67.6888%\n","timestamp":"2026-02-05 02:52:59"}
+{"category":"CPU","message":"Total CPU Usage: 3.25%\nCPU0 Usage: 3.9604%\nCPU1 Usage: 1.0101%\nCPU2 Usage: 3.0303%\nCPU3 Usage: 4%\n","timestamp":"2026-02-05 02:53:02"}
+{"category":"Memory","message":"Memory Usage: 48.481%\n","timestamp":"2026-02-05 02:53:02"}
+{"category":"Disk","message":"Disk Usage (/): 67.6889%\n","timestamp":"2026-02-05 02:53:02"}
+{"category":"CPU","message":"Total CPU Usage: 1.50376%\nCPU0 Usage: 1%\nCPU1 Usage: 3.9604%\nCPU2 Usage: 0%\nCPU3 Usage: 0%\n","timestamp":"2026-02-05 02:53:05"}
+{"category":"Memory","message":"Memory Usage: 48.4809%\n","timestamp":"2026-02-05 02:53:05"}
+{"category":"Disk","message":"Disk Usage (/): 67.6888%\n","timestamp":"2026-02-05 02:53:05"}
+{"category":"CPU","message":"Total CPU Usage: 2.5%\nCPU0 Usage: 2.9703%\nCPU1 Usage: 4.0404%\nCPU2 Usage: 2%\nCPU3 Usage: 1.9802%\n","timestamp":"2026-02-05 02:53:08"}
+{"category":"Memory","message":"Memory Usage: 48.4809%\n","timestamp":"2026-02-05 02:53:08"}
+{"category":"Disk","message":"Disk Usage (/): 67.6889%\n","timestamp":"2026-02-05 02:53:08"}
+{"category":"CPU","message":"Total CPU Usage: 4.2394%\nCPU0 Usage: 2.0202%\nCPU1 Usage: 4%\nCPU2 Usage: 7.14286%\nCPU3 Usage: 1%\n","timestamp":"2026-02-05 02:53:11"}
+{"category":"Memory","message":"Memory Usage: 48.4809%\n","timestamp":"2026-02-05 02:53:11"}
+{"category":"Disk","message":"Disk Usage (/): 67.6888%\n","timestamp":"2026-02-05 02:53:11"}
+{"category":"CPU","message":"Total CPU Usage: 1.25%\nCPU0 Usage: 0%\nCPU1 Usage: 1.0101%\nCPU2 Usage: 1.9802%\nCPU3 Usage: 1.0101%\n","timestamp":"2026-02-05 02:53:14"}
+{"category":"Memory","message":"Memory Usage: 48.4782%\n","timestamp":"2026-02-05 02:53:14"}
+{"category":"Disk","message":"Disk Usage (/): 67.6888%\n","timestamp":"2026-02-05 02:53:14"}
+{"category":"CPU","message":"Total CPU Usage: 1.00503%\nCPU0 Usage: 0%\nCPU1 Usage: 0%\nCPU2 Usage: 1.9802%\nCPU3 Usage: 1.0101%\n","timestamp":"2026-02-05 02:53:17"}
+{"category":"Memory","message":"Memory Usage: 48.4782%\n","timestamp":"2026-02-05 02:53:17"}
+{"category":"Disk","message":"Disk Usage (/): 67.6888%\n","timestamp":"2026-02-05 02:53:17"}
+{"category":"CPU","message":"Total CPU Usage: 1.74564%\nCPU0 Usage: 1%\nCPU1 Usage: 4.9505%\nCPU2 Usage: 1.9802%\nCPU3 Usage: 1.9802%\n","timestamp":"2026-02-05 02:53:20"}
+{"category":"Memory","message":"Memory Usage: 48.4782%\n","timestamp":"2026-02-05 02:53:20"}
+{"category":"Disk","message":"Disk Usage (/): 67.6888%\n","timestamp":"2026-02-05 02:53:20"}
+{"category":"CPU","message":"Total CPU Usage: 4.51128%\nCPU0 Usage: 4.0404%\nCPU1 Usage: 6.86275%\nCPU2 Usage: 1%\nCPU3 Usage: 8%\n","timestamp":"2026-02-05 02:53:23"}
+{"category":"Memory","message":"Memory Usage: 48.4782%\n","timestamp":"2026-02-05 02:53:23"}
+{"category":"Disk","message":"Disk Usage (/): 67.6888%\n","timestamp":"2026-02-05 02:53:23"}
+{"category":"CPU","message":"Total CPU Usage: 25.9701%\nCPU0 Usage: 11%\nCPU1 Usage: 16.2162%\nCPU2 Usage: 9.09091%\nCPU3 Usage: 61.6162%\n","timestamp":"2026-02-05 02:53:26"}
+{"category":"Memory","message":"Memory Usage: 48.4813%\n","timestamp":"2026-02-05 02:53:26"}
+{"category":"Disk","message":"Disk Usage (/): 67.6888%\n","timestamp":"2026-02-05 02:53:26"}
+{"category":"CPU","message":"Total CPU Usage: 7.73067%\nCPU0 Usage: 2%\nCPU1 Usage: 5.82524%\nCPU2 Usage: 6.06061%\nCPU3 Usage: 17.1717%\n","timestamp":"2026-02-05 02:53:29"}
+{"category":"Memory","message":"Memory Usage: 48.4874%\n","timestamp":"2026-02-05 02:53:29"}
+{"category":"Disk","message":"Disk Usage (/): 67.6888%\n","timestamp":"2026-02-05 02:53:29"}
+{"category":"CPU","message":"Total CPU Usage: 4.26065%\nCPU0 Usage: 1.03093%\nCPU1 Usage: 5%\nCPU2 Usage: 5.05051%\nCPU3 Usage: 3.0303%\n","timestamp":"2026-02-05 02:53:32"}
+{"category":"Memory","message":"Memory Usage: 48.4781%\n","timestamp":"2026-02-05 02:53:32"}
+{"category":"Disk","message":"Disk Usage (/): 67.6878%\n","timestamp":"2026-02-05 02:53:32"}
+{"category":"CPU","message":"Total CPU Usage: 3.51759%\nCPU0 Usage: 2.04082%\nCPU1 Usage: 3.0303%\nCPU2 Usage: 4.0404%\nCPU3 Usage: 4%\n","timestamp":"2026-02-05 02:53:35"}
+{"category":"Memory","message":"Memory Usage: 48.4682%\n","timestamp":"2026-02-05 02:53:35"}
+{"category":"Disk","message":"Disk Usage (/): 67.6879%\n","timestamp":"2026-02-05 02:53:35"}
+{"category":"CPU","message":"Total CPU Usage: 1.5%\nCPU0 Usage: 1%\nCPU1 Usage: 1%\nCPU2 Usage: 3.9604%\nCPU3 Usage: 1.9802%\n","timestamp":"2026-02-05 02:53:38"}
+{"category":"Memory","message":"Memory Usage: 48.468%\n","timestamp":"2026-02-05 02:53:38"}
+{"category":"Disk","message":"Disk Usage (/): 67.6879%\n","timestamp":"2026-02-05 02:53:38"}
+{"category":"CPU","message":"Total CPU Usage: 1.50376%\nCPU0 Usage: 2%\nCPU1 Usage: 1.9802%\nCPU2 Usage: 2%\nCPU3 Usage: 1.0101%\n","timestamp":"2026-02-05 02:53:41"}
+{"category":"Memory","message":"Memory Usage: 48.468%\n","timestamp":"2026-02-05 02:53:41"}
+{"category":"Disk","message":"Disk Usage (/): 67.6878%\n","timestamp":"2026-02-05 02:53:41"}
+{"category":"CPU","message":"Total CPU Usage: 1.25313%\nCPU0 Usage: 1%\nCPU1 Usage: 2%\nCPU2 Usage: 1%\nCPU3 Usage: 0%\n","timestamp":"2026-02-05 02:53:44"}
+{"category":"Memory","message":"Memory Usage: 48.4746%\n","timestamp":"2026-02-05 02:53:44"}
+{"category":"Disk","message":"Disk Usage (/): 67.6879%\n","timestamp":"2026-02-05 02:53:44"}
+{"category":"CPU","message":"Total CPU Usage: 1.75%\nCPU0 Usage: 2%\nCPU1 Usage: 2%\nCPU2 Usage: 1%\nCPU3 Usage: 1%\n","timestamp":"2026-02-05 02:53:47"}
+{"category":"Memory","message":"Memory Usage: 48.4746%\n","timestamp":"2026-02-05 02:53:47"}
+{"category":"Disk","message":"Disk Usage (/): 67.6878%\n","timestamp":"2026-02-05 02:53:47"}
+{"category":"CPU","message":"Total CPU Usage: 1.25313%\nCPU0 Usage: 0%\nCPU1 Usage: 2%\nCPU2 Usage: 1.0101%\nCPU3 Usage: 1%\n","timestamp":"2026-02-05 02:53:50"}
+{"category":"Memory","message":"Memory Usage: 48.4746%\n","timestamp":"2026-02-05 02:53:50"}
+{"category":"Disk","message":"Disk Usage (/): 67.6878%\n","timestamp":"2026-02-05 02:53:50"}
+{"category":"CPU","message":"Total CPU Usage: 4.26065%\nCPU0 Usage: 5.94059%\nCPU1 Usage: 4%\nCPU2 Usage: 3.09278%\nCPU3 Usage: 2%\n","timestamp":"2026-02-05 02:53:53"}
+{"category":"Memory","message":"Memory Usage: 48.4836%\n","timestamp":"2026-02-05 02:53:53"}
+{"category":"Disk","message":"Disk Usage (/): 67.6878%\n","timestamp":"2026-02-05 02:53:53"}
+{"category":"CPU","message":"Total CPU Usage: 2%\nCPU0 Usage: 2.0202%\nCPU1 Usage: 0%\nCPU2 Usage: 4%\nCPU3 Usage: 0.990099%\n","timestamp":"2026-02-05 02:53:56"}
+{"category":"Memory","message":"Memory Usage: 48.4836%\n","timestamp":"2026-02-05 02:53:56"}
+{"category":"Disk","message":"Disk Usage (/): 67.6878%\n","timestamp":"2026-02-05 02:53:56"}
+{"category":"CPU","message":"Total CPU Usage: 1.50376%\nCPU0 Usage: 2%\nCPU1 Usage: 1.9802%\nCPU2 Usage: 4%\nCPU3 Usage: 0%\n","timestamp":"2026-02-05 02:53:59"}
+{"category":"Memory","message":"Memory Usage: 48.4836%\n","timestamp":"2026-02-05 02:53:59"}
+{"category":"Disk","message":"Disk Usage (/): 67.6878%\n","timestamp":"2026-02-05 02:53:59"}
+{"category":"CPU","message":"Total CPU Usage: 7.28643%\nCPU0 Usage: 6%\nCPU1 Usage: 9.90099%\nCPU2 Usage: 10.101%\nCPU3 Usage: 5.94059%\n","timestamp":"2026-02-05 02:54:02"}
+{"category":"Memory","message":"Memory Usage: 48.5466%\n","timestamp":"2026-02-05 02:54:02"}
+{"category":"Disk","message":"Disk Usage (/): 67.6878%\n","timestamp":"2026-02-05 02:54:02"}
+{"category":"CPU","message":"Total CPU Usage: 2.25%\nCPU0 Usage: 0%\nCPU1 Usage: 3.9604%\nCPU2 Usage: 4.9505%\nCPU3 Usage: 0%\n","timestamp":"2026-02-05 02:54:05"}
+{"category":"Memory","message":"Memory Usage: 48.5466%\n","timestamp":"2026-02-05 02:54:05"}
+{"category":"Disk","message":"Disk Usage (/): 67.6878%\n","timestamp":"2026-02-05 02:54:05"}
+{"category":"CPU","message":"Total CPU Usage: 3.2419%\nCPU0 Usage: 5.05051%\nCPU1 Usage: 1.02041%\nCPU2 Usage: 3.92157%\nCPU3 Usage: 2%\n","timestamp":"2026-02-05 02:54:08"}
+{"category":"Memory","message":"Memory Usage: 48.5466%\n","timestamp":"2026-02-05 02:54:08"}
+{"category":"Disk","message":"Disk Usage (/): 67.6878%\n","timestamp":"2026-02-05 02:54:08"}
+{"category":"CPU","message":"Total CPU Usage: 14.787%\nCPU0 Usage: 12.8713%\nCPU1 Usage: 16.3265%\nCPU2 Usage: 22.7723%\nCPU3 Usage: 7%\n","timestamp":"2026-02-05 02:54:11"}
+{"category":"Memory","message":"Memory Usage: 48.5024%\n","timestamp":"2026-02-05 02:54:11"}
+{"category":"Disk","message":"Disk Usage (/): 67.6879%\n","timestamp":"2026-02-05 02:54:11"}
+{"category":"CPU","message":"Total CPU Usage: 2.50627%\nCPU0 Usage: 5%\nCPU1 Usage: 3.0303%\nCPU2 Usage: 2%\nCPU3 Usage: 1%\n","timestamp":"2026-02-05 02:54:14"}
+{"category":"Memory","message":"Memory Usage: 48.5023%\n","timestamp":"2026-02-05 02:54:14"}
+{"category":"Disk","message":"Disk Usage (/): 67.6879%\n","timestamp":"2026-02-05 02:54:14"}
+{"category":"CPU","message":"Total CPU Usage: 1.74564%\nCPU0 Usage: 0%\nCPU1 Usage: 1.9802%\nCPU2 Usage: 1.0101%\nCPU3 Usage: 3.92157%\n","timestamp":"2026-02-05 02:54:17"}
+{"category":"Memory","message":"Memory Usage: 48.5023%\n","timestamp":"2026-02-05 02:54:17"}
+{"category":"Disk","message":"Disk Usage (/): 67.6878%\n","timestamp":"2026-02-05 02:54:17"}
+{"category":"CPU","message":"Total CPU Usage: 1.25628%\nCPU0 Usage: 0%\nCPU1 Usage: 0%\nCPU2 Usage: 3.92157%\nCPU3 Usage: 2.9703%\n","timestamp":"2026-02-05 02:54:20"}
+{"category":"Memory","message":"Memory Usage: 48.5023%\n","timestamp":"2026-02-05 02:54:20"}
+{"category":"Disk","message":"Disk Usage (/): 67.6878%\n","timestamp":"2026-02-05 02:54:20"}
+{"category":"CPU","message":"Total CPU Usage: 1.74564%\nCPU0 Usage: 1%\nCPU1 Usage: 0%\nCPU2 Usage: 2%\nCPU3 Usage: 2%\n","timestamp":"2026-02-05 02:54:23"}
+{"category":"Memory","message":"Memory Usage: 48.5482%\n","timestamp":"2026-02-05 02:54:23"}
+{"category":"Disk","message":"Disk Usage (/): 67.6878%\n","timestamp":"2026-02-05 02:54:23"}
+{"category":"CPU","message":"Total CPU Usage: 1.99501%\nCPU0 Usage: 0%\nCPU1 Usage: 2%\nCPU2 Usage: 1.0101%\nCPU3 Usage: 1.0101%\n","timestamp":"2026-02-05 02:54:26"}
+{"category":"Memory","message":"Memory Usage: 48.5482%\n","timestamp":"2026-02-05 02:54:26"}
+{"category":"Disk","message":"Disk Usage (/): 67.6878%\n","timestamp":"2026-02-05 02:54:26"}
+{"category":"CPU","message":"Total CPU Usage: 1.75%\nCPU0 Usage: 1.0101%\nCPU1 Usage: 0%\nCPU2 Usage: 2%\nCPU3 Usage: 2%\n","timestamp":"2026-02-05 02:54:29"}
+{"category":"Memory","message":"Memory Usage: 48.5482%\n","timestamp":"2026-02-05 02:54:29"}
+{"category":"Disk","message":"Disk Usage (/): 67.6878%\n","timestamp":"2026-02-05 02:54:29"}
+{"category":"CPU","message":"Total CPU Usage: 1.75%\nCPU0 Usage: 1.0101%\nCPU1 Usage: 1%\nCPU2 Usage: 2.0202%\nCPU3 Usage: 0%\n","timestamp":"2026-02-05 02:54:32"}
+{"category":"Memory","message":"Memory Usage: 48.5482%\n","timestamp":"2026-02-05 02:54:32"}
+{"category":"Disk","message":"Disk Usage (/): 67.6878%\n","timestamp":"2026-02-05 02:54:32"}
+{"category":"CPU","message":"Total CPU Usage: 1.00503%\nCPU0 Usage: 1.0101%\nCPU1 Usage: 3.92157%\nCPU2 Usage: 1.0101%\nCPU3 Usage: 1%\n","timestamp":"2026-02-05 02:54:35"}
+{"category":"Memory","message":"Memory Usage: 48.5482%\n","timestamp":"2026-02-05 02:54:35"}
+{"category":"Disk","message":"Disk Usage (/): 67.6878%\n","timestamp":"2026-02-05 02:54:35"}
+{"category":"CPU","message":"Total CPU Usage: 1.5%\nCPU0 Usage: 1.0101%\nCPU1 Usage: 2.9703%\nCPU2 Usage: 1.96078%\nCPU3 Usage: 1%\n","timestamp":"2026-02-05 02:54:38"}
+{"category":"Memory","message":"Memory Usage: 48.3772%\n","timestamp":"2026-02-05 02:54:38"}
+{"category":"Disk","message":"Disk Usage (/): 67.6878%\n","timestamp":"2026-02-05 02:54:38"}
+{"category":"CPU","message":"Total CPU Usage: 4.51128%\nCPU0 Usage: 2.0202%\nCPU1 Usage: 8.08081%\nCPU2 Usage: 3%\nCPU3 Usage: 3.06122%\n","timestamp":"2026-02-05 02:54:41"}
+{"category":"Memory","message":"Memory Usage: 48.3734%\n","timestamp":"2026-02-05 02:54:41"}
+{"category":"Disk","message":"Disk Usage (/): 67.6879%\n","timestamp":"2026-02-05 02:54:41"}
+{"category":"CPU","message":"Total CPU Usage: 4.53401%\nCPU0 Usage: 9.09091%\nCPU1 Usage: 6%\nCPU2 Usage: 3.0303%\nCPU3 Usage: 1%\n","timestamp":"2026-02-05 02:54:44"}
+{"category":"Memory","message":"Memory Usage: 48.3746%\n","timestamp":"2026-02-05 02:54:44"}
+{"category":"Disk","message":"Disk Usage (/): 67.6876%\n","timestamp":"2026-02-05 02:54:44"}
+{"category":"CPU","message":"Total CPU Usage: 19.1436%\nCPU0 Usage: 23.2323%\nCPU1 Usage: 19.802%\nCPU2 Usage: 8.08081%\nCPU3 Usage: 26.2626%\n","timestamp":"2026-02-05 02:54:47"}
+{"category":"Memory","message":"Memory Usage: 48.8839%\n","timestamp":"2026-02-05 02:54:47"}
+{"category":"Disk","message":"Disk Usage (/): 67.6878%\n","timestamp":"2026-02-05 02:54:47"}
