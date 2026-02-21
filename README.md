@@ -1,69 +1,66 @@
+============================================
 # 🖥 Linux System Monitor (C++)
+============================================
 
-A lightweight Linux system monitoring tool written in **C++17** with two implementations:
+A lightweight Linux system monitoring tool written in **C++17** providing two distinct implementations:
 
-1. 📁 JSON Logging Version – Stores system metrics in JSON format  
-2. 📊 Prometheus + Grafana Version – Real-time monitoring with visualization  
+1. 📁 **JSON Logging Version** – captures metrics to a JSON file for offline analysis.
+2. 📊 **Prometheus + Grafana Version** – exposes metrics for real‑time scraping and visualization.
 
-Tested on **Red Hat Enterprise Linux 9** using Docker / Podman.
+> **Tested on:** Red Hat Enterprise Linux 9 (works with Docker or Podman)
 
----
-
+============================================
 # 📂 Project Structure
+============================================
 
 ```
 linux-monitor/
 │
-├── json-version/
-├── prometheus-version/
-├── docker-compose.yml
-├── prometheus.yml
-├── screenshots/
-│   ├── Picture1.png
-│   ├── Picture2.png
-│   └── Picture3.png
-└── README.md
+├── json-version/            # JSON logger implementation
+├── prometheus-version/      # Prometheus exporter implementation
+├── docker-compose.yml       # Full stack orchestration
+├── prometheus.yml           # Prometheus configuration
+├── screenshots/             # Example dashboard images
+└── README.md                # ← you are here
 ```
 
----
+============================================
 # 🔹 Version 1 — JSON Logging Monitor
+============================================
 
 ## 🎯 Overview
 
-This version collects system metrics from the Linux `/proc` filesystem and stores them inside a JSON file.
+This variant reads from the Linux `/proc` filesystem and writes periodic system metrics to a JSON file.
 
-Designed for:
-- Offline analysis
-- Log storage
-- Lightweight monitoring
+**Use cases:**
+- Offline log analysis
+- Archival monitoring
+- Minimal runtime dependencies
 
----
-## 🐳 Build
+### 🐳 Build & Run
 
 ```bash
 cd json-version
-podman build -t linux-monitor-json .
-(or use docker build if using Docker)
-▶️ Run
+# build the container
+podman build -t linux-monitor-json .  # (or docker build)
+
+# run the monitor
 podman run --rm linux-monitor-json
-Logs will be saved inside the container unless a volume is mounted.
-________________________________________
+```
 
+> **Note:** logs are stored inside the container unless you mount a host volume.
 
-# 🔹 Version 2 — Prometheus + Grafana (Real-Time Monitoring)
+============================================
+# 🔹 Version 2 — Prometheus + Grafana (Real‑Time Monitoring)
+============================================
 
 ## 🎯 Overview
 
-This version exposes system metrics through an HTTP endpoint compatible with Prometheus.
+This implementation runs an HTTP exporter on port `9100`. Prometheus scrapes it, and Grafana renders dashboards.
 
-Prometheus scrapes the metrics and Grafana visualizes them in real time.
-
----
-
-# 🏗 Architecture
+### 🏗 Architecture
 
 ```
-
 ┌───────────────┐     scrape     ┌───────────────┐
 │ C++ Monitor   │──────────────>│ Prometheus     │
 │ (Port 9100)   │               │ (Port 9090)    │
@@ -74,26 +71,28 @@ Prometheus scrapes the metrics and Grafana visualizes them in real time.
                                    │ Grafana     │
                                    │ (Port 3000) │
                                    └─────────────┘
-
-                                   
 ```
 
+### 🐳 Build & Run the Exporter
 
-🐳 Build Monitor
+```bash
 cd prometheus-version
 podman build -t linux-monitor-prometheus .
-▶️ Run Monitor
 podman run -p 9100:9100 linux-monitor-prometheus
-Test:
-http://localhost:9100/metrics
-You should see:
+```
+
+Navigate to `http://localhost:9100/metrics` to verify output:
+```
 cpu_usage_total 23.4
 memory_usage 61.2
-________________________________________
-🔹 Prometheus Setup
-Download Prometheus from:
-https://prometheus.io/download/
-Edit prometheus.yml:
+```
+
+### 🔹 Prometheus Setup
+
+1. Download Prometheus: https://prometheus.io/download/
+2. Edit `prometheus.yml`:
+
+```yaml
 global:
   scrape_interval: 2s
 
@@ -101,88 +100,86 @@ scrape_configs:
   - job_name: "linux_monitor"
     static_configs:
       - targets: ["localhost:9100"]
-Start Prometheus:
+```
+
+3. Start Prometheus:
+```bash
 ./prometheus --config.file=prometheus.yml
-Access:
-http://localhost:9090
-________________________________________
-🔹 Grafana Setup
-Download Grafana from:
-https://grafana.com/grafana/download
-Start Grafana and open:
-http://localhost:3000
-Default login:
-admin / admin
-Add Data Source:
-•	Type: Prometheus
-•	URL: http://localhost:9090
-•	Click "Save & Test"
-Create dashboard panels using:
-cpu_usage_total
-memory_usage
-Set Max value to 100 for CPU gauge.
-________________________________________
-🔥 Generate CPU Load for Testing
-Single core:
+```
+4. Browse the UI at **http://localhost:9090**
+
+### 🔹 Grafana Setup
+
+1. Download Grafana: https://grafana.com/grafana/download
+2. Launch and open **http://localhost:3000** (default `admin/admin`)
+3. Add a Prometheus data source:
+   - URL: `http://localhost:9090`
+   - Click **Save & Test**
+4. Create dashboard panels using metrics `cpu_usage_total` and `memory_usage`.
+   - For CPU gauges set the **Max** value to `100`.
+
+### 🔥 Generating Load for Testing
+
+```bash
+# Single core
 yes > /dev/null
-All cores:
+
+# All cores
 for i in $(seq 1 $(nproc)); do yes > /dev/null & done
-Stop:
+
+# stop
 killall yes
+```
 
-
----
-
+============================================
 # 📊 Screenshots
+============================================
 
-## 🔵 Grafana Dashboard – CPU & Memory Monitoring
+## Grafana Dashboard – CPU & Memory Monitoring
 
 <img src="screenshots/Picture1.png" alt="Grafana Dashboard 1" width="800">
 
 ---
 
-## 🔵 Grafana Dashboard – Detailed Metrics View
+## Grafana Dashboard – Detailed Metrics View
 
 <img src="screenshots/Picture2.png" alt="Grafana Dashboard 2" width="800">
 
 ---
 
-## 🔵 Prometheus Metrics Endpoint
+## Prometheus Metrics Endpoint
 
 <img src="screenshots/Picture3.png" alt="Prometheus UI" width="800">
 
----
-
+============================================
 # 🐳 Run Full Stack (Docker Compose)
+============================================
 
 ```bash
 docker-compose up -d
 ```
 
-Access:
+- **Monitor:** http://localhost:9100/metrics
+- **Prometheus:** http://localhost:9090
+- **Grafana:** http://localhost:3000
 
-- Monitor: http://localhost:9100/metrics
-- Prometheus: http://localhost:9090
-- Grafana: http://localhost:3000
-
----
-
+============================================
 # 🛠 Technologies Used
+============================================
 
 - C++17
 - Linux `/proc` filesystem
 - Docker / Podman
-- Prometheus
-- Grafana
+- Prometheus & Grafana
 
----
-
+============================================
 # 👤 Author
+============================================
 
 Mohammed Ahmed Ali
 
----
-
+============================================
 # 📜 License
+============================================
 
-This project is for educational and demonstration purposes.
+This project is provided for educational and demonstration purposes.
